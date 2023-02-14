@@ -135,3 +135,6 @@ Pipfile.lock
 # data
 /data
 
+# optuna logs
+*.db
+*.db-journal
